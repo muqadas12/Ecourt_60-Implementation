@@ -1,0 +1,82 @@
+input[type="textss"]{
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+input[type="file"]{
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+input[type="texts"]{
+    margin-top: 30px;
+    margin-left: 40px;
+    
+}
+.l-n{
+    margin-left:35%;
+}
+.p-n{
+    margin-left: 35%;
+}
+.u-c{
+    margin-left: 35%;
+}
+.paafile{
+    height: 100px;
+  width: 150px;
+  background-color: rgb(190, 206, 48);
+}
+.submiitt-button{
+    margin-left: 45%;
+ background-color: rgb(110, 46, 46); 
+ color:white;
+ border:none;
+ width:10%;
+ height:30px;
+ margin-top: 40px;
+}
+.top-lawyer{
+    margin-left: 34%;
+
+}
+hr.new{
+   
+    width:30%;
+}
+.rectangle {
+    height: 280px;
+    width: 90px;
+    background-color: #555;
+  }
+  
+  @media (max-width: 600px) {
+    .top-lawyer{
+        margin-left:2%;
+    
+    }
+    input[type="file"]{
+        margin-top: -75px;
+        margin-left: 200px;
+        
+    }
+    input[type="texts"]{
+        margin-top: -10px;
+        margin-left: 20px;
+        
+    }
+    input[type="textss"]{
+        margin-top: 10px;
+        margin-left: 35px;
+        
+    }
+    .l-n{
+        margin-left:15%;
+    }
+    .p-n{
+        margin-left: 15%;
+    }
+    .u-c{
+        margin-left: 15%;
+    }
+}

@@ -1,0 +1,13 @@
+.block-examples{
+    width: 80rem;
+    height: 4rem;
+    /* float: left; */
+    margin: 20px;
+    margin-top: -10px;
+  
+    background-color: rgb(247, 228, 56);
+    display: inline-block;
+    position: relative;
+    max-width: 100%;
+    overflow:hidden
+}

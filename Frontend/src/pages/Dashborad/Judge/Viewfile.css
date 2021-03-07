@@ -1,0 +1,25 @@
+.fileview-image{
+    position: relative;
+    max-width: 100%;
+    margin-left: 25%;
+    margin-top: -80px;
+  }
+  .fileview__image {
+    position: absolute;
+    margin-top: -40px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 80%;
+    height: 100%;
+  }
+  .pdf-affiii{
+    height:40px;
+    margin-left: -200px;
+  }
+  .button-viewfilingacceptcase{
+    background-color: rgb(56, 56, 209);
+    color:white;
+    border-color:rgb(56, 56, 209);
+    margin-left: -220px;
+  }

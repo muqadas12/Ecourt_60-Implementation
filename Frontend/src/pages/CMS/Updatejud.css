@@ -1,0 +1,22 @@
+.judcms{
+    font-weight: bold;
+}
+textarea[type="textcasenumberjudgmet"]{
+margin-left: -8%;
+height:100px;
+width:160px
+}
+textarea[type="textcaseyearjudgment"]{
+    margin-left: -150px;
+height:100px;
+width:160px
+}
+textarea[type="textpartynamejudgment"]{
+    margin-left: -100px;
+    height:100px;
+    width:160px
+}
+textarea[type="textlawyernamejudg"]{
+    height:100px;
+    width:160px
+}

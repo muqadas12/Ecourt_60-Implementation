@@ -1,0 +1,43 @@
+.case-year-cause{
+    margin-left: 70px;
+}
+.fix-update-cause{
+    margin-left: 100px;
+}
+.lawyer-update-list{
+    margin-left: 90px;
+}
+.party-list-update{
+    margin-left: 120px;
+    font-weight: bold;
+}
+.lawyer-update-list{
+margin-left: 25%;
+font-weight: bold;
+}
+.fixtime-list{
+    margin-left: -10px;
+    
+}
+.case-year-cause{
+    font-weight: bold;
+}
+
+.fix-update-cause{
+    font-weight: bold;
+}
+.causelist-image{
+    position: relative;
+    margin-left: 30%;
+    height: 400px;
+    margin-top: -50px;
+}
+
+.causelists-image{
+    position: relative;
+    
+    margin-left: 27%;
+    height: 400px;
+    margin-top: -50px;
+}
+

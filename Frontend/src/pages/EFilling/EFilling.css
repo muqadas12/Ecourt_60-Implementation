@@ -1,0 +1,33 @@
+/* .col-2-form{
+    margin-left: 60%;
+    margin-top: -90px;
+} 
+.col-one-img{
+margin-top: -200px;
+margin-left: -100px;
+} */
+
+.authentication__header {
+  color: white;
+  text-align: center;
+}
+
+.authentication {
+  width: 90%;
+  
+  max-width: 25rem;
+  margin: 7rem auto;
+  text-align: center;
+}
+
+.authentication form {
+  margin-bottom: 1rem;
+}
+.Login-cms-btn{
+  background-color: blue;
+  color: white;
+  border: none;
+  width: 90px;
+  height: 40px;
+
+}

@@ -1,0 +1,15 @@
+.card{
+    width:18rem;
+    height:100%
+}
+.card-title-contact{
+    margin-top: -30px;
+}
+.card-title-rules{
+    margin-top: 20px;
+}
+
+
+img.card-img-top:hover {
+    transform: scale(1.1);
+  }
